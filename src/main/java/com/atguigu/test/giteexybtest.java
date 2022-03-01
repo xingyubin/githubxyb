@@ -7,5 +7,6 @@ package com.atguigu.test;
 public class giteexybtest {
     public static void main(String[] args) {
         System.out.println("xxxxxx");
+        System.out.println("sadsadsad");
     }
 }
